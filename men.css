@@ -1,0 +1,38 @@
+.men {
+    background-color: #f2f2f2;
+  }
+  .hidden {
+    display: none;
+  }
+  .make{
+    display: flex;
+    font-size: large;
+    align-items: center;
+    justify-content: center;
+    font-family: "Arial", sans-serif;
+}
+
+form {
+    text-align: center;
+
+}
+div {
+        margin-bottom: 20px;
+    }
+
+body{
+      color: #f2f2f2;
+      background-color: #333333;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.link a{
+    border: 1px solid #f2f2f2; 
+    color: #f2f2f2;
+}
+.headings{
+    font-family: Cormorant Garamond, serif;
+}
+.paragraph{
+font-size: larger;
+}
